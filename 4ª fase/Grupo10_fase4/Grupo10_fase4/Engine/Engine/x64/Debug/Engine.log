@@ -1,0 +1,74 @@
+﻿  engine.cpp
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(185,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(186,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(192,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(195,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(270,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(507,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(653,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(654,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(655,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(663,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(669,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(670,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(671,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(683,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(684,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(685,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(686,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(693,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(694,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(695,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(696,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(705,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(706,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(707,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(740,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(741,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(742,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(747,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(748,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(749,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(754,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(755,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(756,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(761,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(762,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(763,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(768,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(682,47): warning C4101: 'time': unreferenced local variable
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(692,40): warning C4101: 'angle': unreferenced local variable
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(802,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(803,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(804,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(807,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(808,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(809,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(812,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(813,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(814,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(817,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(818,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(819,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(839,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(840,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(841,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(846,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(847,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(848,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(853,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(854,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(855,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(856,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(857,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(858,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(859,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(952,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(956,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\infin\Desktop\New folder (2)\Engine\Engine\engine.cpp(1026,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  tinyxml.cpp
+  Generating Code...
+  Engine.vcxproj -> C:\Users\infin\Desktop\New folder (2)\Engine\x64\Debug\Engine.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
