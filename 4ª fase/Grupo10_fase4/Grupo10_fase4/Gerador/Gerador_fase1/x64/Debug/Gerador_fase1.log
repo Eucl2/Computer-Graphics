@@ -1,0 +1,47 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Gerador_fase1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  funcgera.cpp
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(34,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(35,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(46,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(47,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(48,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(49,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(50,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(51,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(52,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(53,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(55,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(56,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(57,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(58,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(59,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(60,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(62,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(63,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(64,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(65,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(66,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(67,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(68,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(69,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(71,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(72,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(73,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(74,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(313,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(334,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(335,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(336,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(337,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(388,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(389,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(390,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(391,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(430,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(431,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(482,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(483,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(484,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(485,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\Gerador_fase1\funcgera.cpp(600,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Gerador_fase1.vcxproj -> C:\Users\infin\Desktop\CG\emdev\Grupo10_fase4\Versao_final_GC4\Gerador\x64\Debug\Gerador.exe
