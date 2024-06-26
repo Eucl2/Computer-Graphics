@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Gerador_fase1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  funcgera.cpp
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(17,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(18,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(25,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(26,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(27,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(28,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(30,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(33,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(34,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(35,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(36,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(234,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(310,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(311,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\funcgera.cpp(407,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  gerador.cpp
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\gerador.cpp(25,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\gerador.cpp(86,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\Gerador_fase1\gerador.cpp(87,32): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Generating Code...
+  Gerador_fase1.vcxproj -> C:\Users\infin\Desktop\CG\emdev\Grupo10_fase3\Versao_final_GC3\Gerador\x64\Debug\Gerador.exe
