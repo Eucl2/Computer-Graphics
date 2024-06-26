@@ -1,0 +1,20 @@
+﻿  engine.cpp
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(63,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(114,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(115,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(116,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(119,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(120,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(121,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(124,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(125,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(126,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(129,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(130,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(131,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(203,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\Engine\engine.cpp(207,21): warning C4305: '+=': truncation from 'double' to 'float'
+  tinyxml.cpp
+  Generating Code...
+  Engine.vcxproj -> C:\Users\andre\Desktop\Versao_final_GC1\Versao_final_GC1\Engine\x64\Debug\Engine.exe
+          1 file(s) copied.
