@@ -1,0 +1,28 @@
+﻿  engine.cpp
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(130,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(180,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(181,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(182,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(188,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(189,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(190,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(191,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(197,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(198,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(199,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(241,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(242,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(243,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(246,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(247,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(248,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(251,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(252,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(253,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(256,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(257,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(258,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(333,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\Engine\engine.cpp(337,21): warning C4305: '+=': truncation from 'double' to 'float'
+  Engine.vcxproj -> C:\Users\infin\Desktop\CG\emdev\Versao_final_GC1\Engine\x64\Debug\Engine.exe
+          1 file(s) copied.
